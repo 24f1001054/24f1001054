@@ -10,7 +10,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanraj123&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=24f1001054&show_icons=true&cache_seconds=1800)
+
 ![](https://komarev.com/ghpvc/?username=24f1001054)
 
 
