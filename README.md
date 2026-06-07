@@ -16,3 +16,11 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=24f1001054)
+
+
+## Current Focus
+
+- 🤖 Learning AI Agents
+- 🔧 Building MCP Servers
+- 📚 Exploring LangGraph
+- 🚀 Open Source Contributions
