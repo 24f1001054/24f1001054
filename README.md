@@ -8,3 +8,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker" />
 </p>
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=24f1001054&show_icons=true)
