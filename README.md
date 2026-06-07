@@ -24,4 +24,4 @@
 - 🤖 Learning AI Agents
 - 🔧 Building MCP Servers
 - 📚 Exploring LangGraph
-- 🚀 Open Source Contributions
+- 🚀 Learning Data Science
