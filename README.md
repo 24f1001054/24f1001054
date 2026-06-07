@@ -12,3 +12,7 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=24f1001054&show_icons=true)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=24f1001054)
