@@ -5,7 +5,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,FastApi,react,vue,flask,postgres,linux,docker,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,scikit-learn,css,FastApi,react,vue,flask,postgres,linux,docker,pytorch" />
 </p>
 
 
